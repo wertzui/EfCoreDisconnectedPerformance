@@ -1,0 +1,2 @@
+# EfCoreDisconnectedPerformance
+Benchmarking different disconnected entity scenarios
